@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZCptYAELzeXK+Piijzli8wJMAxhO/7YYuzqvinlyvNaQXRJD/9hKTNYw7CM0ZSYG39ImrTCLlht96LzJDjJsZw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Project3\\Project3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.SpaServices.Extensions. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.SpaServices.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
